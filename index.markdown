@@ -33,9 +33,9 @@ Painters for Hire is an web-based multiplayer drawing and party game designed fo
 
 ![](/assets/pfh2.png)
 
-![](/assets/pfh3.png)
-
 ![](/assets/pfh4.png)
+
+![](/assets/pfh3.png)
 
 ![](/assets/pfh5.png)
 
