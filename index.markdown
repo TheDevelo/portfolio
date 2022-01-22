@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: "Portfolio"
 ---
 # surf_polytron
 As a part of the [KSF Winter 2021 Mapping Contest](https://www.youtube.com/watch?v=kLc7ZYVy6ro) for Counter Strike, I designed and created the level **surf_polytron**. Inspired by the game _Fez_, **surf_polytron** has you traverse through many varying environments.
