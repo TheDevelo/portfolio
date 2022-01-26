@@ -25,7 +25,7 @@ As a part of the [KSF Winter 2021 Mapping Contest](https://www.youtube.com/watch
 
 ![](/assets/poly9.png)
 
-[A video showcase of the map can be found here](https://youtu.be/mPkLjx4JwGs).
+[A video showcase of the map can be found here](https://youtu.be/Zwbm5nW4f0U).
 
 # Painters for Hire
 Painters for Hire is an web-based multiplayer drawing and party game designed for 3 to 10 players. In a round of Painters for Hire, one players is assigned as judge. The judge submits a text prompt, which the other players must then draw in a short timeframe. After all players submit their drawings or time expires, the judge then ranks their 3 favorite drawings, who then gain points. The judge then cycles to another player, and another round is played. After a set amount of rounds, the player with the most points is determined winner.
