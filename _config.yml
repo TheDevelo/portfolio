@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Robert Fuchs Portfolio
+title: Robert Fuchs
 email: robert.fuchs@wustl.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Robert Fuchs' Gaming Portfolio
-baseurl: "/portfolio/" # the subpath of your site, e.g. /blog
-domain: "thedevelo.github.io"
-url: "https://thedevelo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+  Robert Fuchs' Personal Website
+baseurl: "/" # the subpath of your site, e.g. /blog
+domain: "fuchsian.net"
+url: "https://fuchsian.net" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  thedevelo
 
 # Build settings
