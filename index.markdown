@@ -5,10 +5,10 @@
 layout: home
 title: "About Me"
 ---
-Hi, I'm Robert Fuchs. I'm a current MSCS student at Carnegie Mellon University. I previously graduated from Washington University in St. Louis with a BS in Computer Science and a second major in Mathematics. My current interests are in Computer Graphics.
+Hi, I'm Robert Fuchs. I am currently in the Masters of Computer Science program at Carnegie Mellon University. I graduated in 2023 from Washington University in St. Louis with a BS in Computer Science and a second major in Mathematics. I am interested in a career in Computer Graphics.
 
-In my spare time, I like to do video game development. I have notably released multiple levels for Counter Strike's custom surf game mode, with [one of them getting 150k views on YouTube](https://www.youtube.com/watch?v=HPExhv7G2lY).
-Here is a list of all of my surf levels:
+In my spare time, I like to develop video games. I have released multiple levels for Counter Strike's custom surf game mode, with [one of them getting 150K views on YouTube](https://www.youtube.com/watch?v=HPExhv7G2lY).
+Here are links to all of my surf levels:
 - [surf_polytron](https://www.youtube.com/watch?v=Zwbm5nW4f0U)
 - [surf_cosmo b2](https://www.youtube.com/watch?v=Bzn1uK4u16A&t=81s)
 - [surf_forsaken b1](https://www.youtube.com/watch?v=-y7bjgOTIyw&t=71s)

@@ -7,8 +7,8 @@ title: "Portfolio"
 ---
 ## Computer Graphics
 # Vulkan Renderer
-For the class _Realtime Rendering_ (15-672), I wrote a full rendering engine completely from scratch using C++ and Vulkan.
-The renderer loads a custom scene format similar to glTF, and renders the scene in real time, either to screen or an image sequence for video.
+For the Realtime Rendering class at CMU, I wrote a full rendering engine completely from scratch using C++ and Vulkan.
+The renderer loads a custom scene format similar to glTF and renders the scene in real time, either to screen or an image sequence for video.
 The renderer currently supports features such as frustum culling, transformation-based animation, and environment maps.
 [The source code can be found here](https://github.com/TheDevelo/vulkan-renderer).
 
