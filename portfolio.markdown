@@ -5,6 +5,25 @@
 layout: page
 title: "Portfolio"
 ---
+## Computer Graphics
+# Vulkan Renderer
+For the class _Realtime Rendering_ (15-672), I wrote a full rendering engine completely from scratch using C++ and Vulkan.
+The renderer loads a custom scene format similar to glTF, and renders the scene in real time, either to screen or an image sequence for video.
+The renderer currently supports features such as frustum culling, transformation-based animation, and environment maps.
+[The source code can be found here](https://github.com/TheDevelo/vulkan-renderer).
+
+# Spline Generator
+As a part of my Counter Strike level design, I wanted to easily create 3D models of spline curves that weave through my levels.
+To help create these models, I wrote a tool that lets me freehand these splines easily, and then export them into a format that I could use in Counter Strike.
+The tool uses a custom engine, loading the Counter Strike map format to allow me to visualize how the splines look within the environment.
+I can easily add new points to my spline, as well as adjust the position and rotation of existing control points, all within the tool.
+The tool is written in Rust and uses WebGPU to render both on native and the web. [The source code can be found here](https://github.com/TheDevelo/botpath-generator/tree/rust).
+
+![](/assets/spline1.png)
+
+![](/assets/spline2.png)
+
+## Game Development
 # surf_polytron
 As a part of the [KSF Winter 2021 Mapping Contest](https://www.youtube.com/watch?v=kLc7ZYVy6ro) for Counter Strike, I designed and created the level **surf_polytron** for the custom surf gamemode. Inspired by the game _Fez_, **surf_polytron** has you traverse through many varying environments.
 ![](/assets/poly1.png)
