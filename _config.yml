@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Robert Fuchs
-email: robertfuchsyoshi@gmail.com
+email: robert@fuchsian.net
 baseurl: "/" # the subpath of your site, e.g. /blog
 domain: "fuchsian.net"
 url: "https://fuchsian.net" # the base hostname & protocol for your site, e.g. http://example.com
